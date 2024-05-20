@@ -23,9 +23,6 @@ Experience seamless hostel management with the robust and user-friendly Hostel M
 
 •	MySQL Database: With MySQL as the backend, data integrity and reliability are prioritized, ensuring optimal performance.
 
-🌟 Project Output Video on LinkedIn:
-
-Watch the project in action as it showcases its versatility and functionality on LinkedIn. Gain insights into its intuitive user interface and robust backend architecture, all crafted meticulously by a single developer passionate about delivering excellence in hostel management.
 
 🔧 Tools Used:
 
